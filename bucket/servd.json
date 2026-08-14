@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0-rc.2",
+    "version": "0.1.0-rc.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/reidransom/servd/releases/download/v0.1.0-rc.2/servd_Windows_x86_64.zip",
+            "url": "https://github.com/reidransom/servd/releases/download/v0.1.0-rc.3/servd_Windows_x86_64.zip",
             "bin": [
                 "servd.exe"
             ],
-            "hash": "98d2ddbd6dbbabb25338df3d4b778c383634dbe4c49355addc7a3b07279123fc"
+            "hash": "4c86c95126d2c4832fbe6b745ce61a284ca0502bdfcf0ff443b5ec4cb39f9b20"
         },
         "arm64": {
-            "url": "https://github.com/reidransom/servd/releases/download/v0.1.0-rc.2/servd_Windows_arm64.zip",
+            "url": "https://github.com/reidransom/servd/releases/download/v0.1.0-rc.3/servd_Windows_arm64.zip",
             "bin": [
                 "servd.exe"
             ],
-            "hash": "675105bc2fa824136cafdf2107de0b5fa09cb3ee7b570e816cfda8b7b5c82891"
+            "hash": "5f815551c8e2a707fbb40c57a50c8b7d3c1d1e50608146020beb43a7d6c692f0"
         }
     },
     "homepage": "https://github.com/reidransom/servd",
