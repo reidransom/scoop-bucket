@@ -1,19 +1,19 @@
 {
-    "version": "1.8.2",
+    "version": "1.8.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/reidransom/jigyll/releases/download/v1.8.2/jigyll_Windows_x86_64v1.zip",
+            "url": "https://github.com/reidransom/jigyll/releases/download/v1.8.3/jigyll_Windows_x86_64v1.zip",
             "bin": [
                 "jigyll.exe"
             ],
-            "hash": "5d78e437fd0092d5f9d0e939ce58ebf7487d2870ae52fbdf615d61722f5a9d3c"
+            "hash": "99fb561da1b0dcfd2c87437090cbc7cf4da3ad09539d53a04facef45c5b3cb11"
         },
         "arm64": {
-            "url": "https://github.com/reidransom/jigyll/releases/download/v1.8.2/jigyll_Windows_arm64.zip",
+            "url": "https://github.com/reidransom/jigyll/releases/download/v1.8.3/jigyll_Windows_arm64.zip",
             "bin": [
                 "jigyll.exe"
             ],
-            "hash": "6ce228167a1e2f44ac37eb490f97b5d62d6d1d04909dd1aa15ee2292ff1841cc"
+            "hash": "7d98df97dbd37a74d82257f781e68e6c1c2e517a5b9acb11022eaa656bce9b46"
         }
     },
     "homepage": "https://github.com/reidransom/jigyll",
