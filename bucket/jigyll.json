@@ -6,14 +6,14 @@
             "bin": [
                 "jigyll.exe"
             ],
-            "hash": "7d36ff8e64707186a9ccce6ffcd0e4bec558f522809d5ccf9c127f9f54974e9c"
+            "hash": "ce3e9ed956e79d327d7fc4a2fb19e2727b4a077950fe6df0cb8fe99c91ae8533"
         },
         "arm64": {
             "url": "https://github.com/reidransom/jigyll/releases/download/v1.14.0/jigyll_Windows_arm64.zip",
             "bin": [
                 "jigyll.exe"
             ],
-            "hash": "18d78e7cc515367cb880c2d8b7ccf349765b15bafb456b00b38fcbb0bea1ce51"
+            "hash": "8fd870714d94fe7bb76a53b52709098eb83f5774a12b335f78828dc438e8c8d8"
         }
     },
     "homepage": "https://github.com/reidransom/jigyll",
